@@ -3,5 +3,5 @@ ADC1 : VREFINT, IN1, IN2, Temperature Sensor <br>
 ADC2 : IN3, IN4 <br>
 ADC calibration done at start-up <br>
 
-Used .ioc file and main.c file from : <br>
+Based on .ioc file and main.c file from : <br>
 https://community.st.com/t5/stm32-mcus-products/stm32u545re-q-not-getting-adc1-conversion-data-via-gpdma/td-p/776887
